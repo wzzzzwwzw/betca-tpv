@@ -1,7 +1,7 @@
 # [Máster en Ingeniería Web por la Universidad Politécnica de Madrid (miw-upm)](http://miw.etsisi.upm.es)
 # Back-end con Tecnologías de Código Abierto: **SPRING & PYTHON**
 > Proyecto TPV. Este proyecto es un apoyo docente de la asignatura. Es una aplicación completa realizada con un Front-end con Angular, 
-dos Back-ends con Spring y un Back-end con Python. El Back-end-user se desarrolla con programación síncrona y Postgresql. El Back-end-core se
+dos Back-ends con Spring y un Back-end con Python. El Back-end-user se desarrolla con programación síncrona y Postgresql. El Back-end-core s
  realiza con programación reactiva y MongoDB. El Back-end-customer-support con programación síncrona y MongoDB
 
 ## Tecnologías necesarias
