@@ -4,7 +4,7 @@ two Back-ends with Spring and a Back-end with Python. The Back-end-user is devel
 is realized with reactive programming and MongoDB. The Back-end-customer-support with synchronous programming and MongoDB.
 
 ## Technologies required
-`Java` `Maven` `Spring-Boot` `Reactor` `Python` `Angular` `MondoDB` `JPA` `SQL` `GitHub` `Travis-CI` `Sonarcloud` `Better Code Hub` `Heroku`
+`Java` `Maven` `Spring-Boot` `Reactor` `Python` `Angular` `MongoDB` `JPA` `SQL` `GitHub` `Travis-CI` `Sonarcloud` `Better Code Hub` `Heroku`
 
 ## Code status
 Project | GitHub - CI | Sonarcloud
